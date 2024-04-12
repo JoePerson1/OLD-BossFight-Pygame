@@ -1,0 +1,31 @@
+---phase 1
+# regular border
+# hyperbole: meteor shower
+# dark crusader: cleave
+# cyro: spinny ball
+stravant: true rupture but balls rotate
+# radiance: shining spiral 1
+homing but stops when close
+sagis: sickles but more 1
+# cazar: power impale
+# nameless deity: tons of rows and columns
+
+---phase 2
+# insta-kill border
+# sagis: core blast
+sagis: sledding
+# mutant: x scissor
+# radiance: shining spiral 2
+# supreme calamitas: rain
+sagis: sickles but more 2
+empress of light: multiple small beams move
+
+---undecided
+brickbattler: bombs
+
+---discarded
+MAYBE igknight: ring
+sagis: icicle lance
+dark crusader: leech field
+sagis: glacier dance
+MAYBE cazar: death strike

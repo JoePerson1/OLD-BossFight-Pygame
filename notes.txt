@@ -1,0 +1,21 @@
+fix dash so you have to re-double tap for dashes
+scalability
+make boss smaller
+mana bar
+sprite changes
+fix diagonals so its not op
+learn draw vs blit
+
+make so cleave time is different for dash and for wait
+
+----roadmap:
+thurs: finish ui and phase 1
+fri: phase 1
+sat: phase 2
+sun: sprite changes and
+     make an end goal for the player
+mon: testing and balancing and bug fixing
+    and dumb down stuff for replit
+
+https://www.youtube.com/watch?v=tJiKYMQJnYg
+pygame.display.flip()

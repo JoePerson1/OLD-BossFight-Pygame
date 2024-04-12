@@ -1,0 +1,19 @@
+def extendVector(characterPos, followerPos, distanceA):
+  characterVector = pygame.math.Vector2(characterPos)
+  followerVector = pygame.math.Vector2(followerPos)
+  preDirectionVector = characterVector - followerVector
+  distance = characterVector.distance_to(followerVector)
+  ratio = distanceA / distance
+  print('Ratio:')
+  print(ratio)
+  print('Distance:')
+  print(distance)
+  print('preDirectionVector:')
+  print(preDirectionVector)
+  distance = [item * ratio for item in preDirectionVector]
+  print('Distance:')
+  print(distance)
+  print('CharacterPos:')
+  print(characterPos)
+  print('---------')
+  return distance

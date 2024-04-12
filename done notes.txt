@@ -1,0 +1,5 @@
+maybe make it so vector is more accurate
+find out what normalize does
+fix corner glitch
+make it so vector is still accurate with low speeds
+score counter top or bottom
